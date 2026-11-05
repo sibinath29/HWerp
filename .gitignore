@@ -1,0 +1,4 @@
+erp.db
+CREDENTIALS.txt
+.secret_key
+__pycache__/
